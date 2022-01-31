@@ -1,0 +1,23 @@
+﻿//This asset is Slime. There are 4 slimes elements such as fire earth wind //and water and have more than 4 in base color. For the animation, there //are 10 animation for this asset. By the way this is the monster which can //use in any game. :D
+
+//In package 
+//- 10 Animations 
+//   - Attack
+//   - SpecialAttack
+//   - GetHit
+//   - Die
+//   - Idle
+//   - Run
+//   - Jump
+//   - Upgrade
+//   - Cast
+//   - Evolve
+
+//Model 
+// There are 2 polygon size, low and middle
+//   Low    - 86 Tris    - 45 Verts
+//   Middle - 368 Tris   - 223 Verts
+
+Version Update
+// 1.0.0 
+// 1.0.5 : Add middle Slime model and adjust all material
